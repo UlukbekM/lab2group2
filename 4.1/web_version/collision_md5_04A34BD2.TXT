@@ -1,0 +1,131 @@
+16.09.2025 15:20:59.292
+
+ The first block collision took  : 15.500000 sec
+16.09.2025 15:21:14.807
+
+ Check: The same MD5 hash
+
+ The second block collision took  : 0.300000 sec16.09.2025 15:21:15.171
+
+ The first and the second blocks together took : 15.800000 sec
+ AVERAGE time for the 1st block = 15.500000 sec
+ AVERAGE time for the 2nd block = 0.300000 sec
+ AVERAGE time for the complete collision = 15.800000 sec
+ No. of collisions = 1
+
+ The first block collision took  : 0.500000 sec
+16.09.2025 15:21:15.757
+
+ Check: The same MD5 hash
+
+ The second block collision took  : 0.100000 sec16.09.2025 15:21:15.934
+
+ The first and the second blocks together took : 0.600000 sec
+ AVERAGE time for the 1st block = 8.000000 sec
+ AVERAGE time for the 2nd block = 0.200000 sec
+ AVERAGE time for the complete collision = 8.200000 sec
+ No. of collisions = 2
+
+ The first block collision took  : 10.800000 sec
+16.09.2025 15:21:26.764
+
+ Check: The same MD5 hash
+
+ The second block collision took  : 0.400000 sec16.09.2025 15:21:27.193
+
+ The first and the second blocks together took : 11.200000 sec
+ AVERAGE time for the 1st block = 8.933333 sec
+ AVERAGE time for the 2nd block = 0.266667 sec
+ AVERAGE time for the complete collision = 9.200000 sec
+ No. of collisions = 3
+
+ The first block collision took  : 5.000000 sec
+16.09.2025 15:21:32.279
+
+ Check: The same MD5 hash
+
+ The second block collision took  : 1.000000 sec16.09.2025 15:21:33.304
+
+ The first and the second blocks together took : 6.000000 sec
+ AVERAGE time for the 1st block = 7.950000 sec
+ AVERAGE time for the 2nd block = 0.450000 sec
+ AVERAGE time for the complete collision = 8.400000 sec
+ No. of collisions = 4
+
+ The first block collision took  : 0.300000 sec
+16.09.2025 15:21:33.704
+
+ Check: The same MD5 hash
+
+ The second block collision took  : 0.800000 sec16.09.2025 15:21:34.547
+
+ The first and the second blocks together took : 1.100000 sec
+ AVERAGE time for the 1st block = 6.420000 sec
+ AVERAGE time for the 2nd block = 0.520000 sec
+ AVERAGE time for the complete collision = 6.940000 sec
+ No. of collisions = 5
+
+ The first block collision took  : 8.600000 sec
+16.09.2025 15:21:43.186
+
+ Check: The same MD5 hash
+
+ The second block collision took  : 0.000000 sec16.09.2025 15:21:43.190
+
+ The first and the second blocks together took : 8.600000 sec
+ AVERAGE time for the 1st block = 6.783333 sec
+ AVERAGE time for the 2nd block = 0.433333 sec
+ AVERAGE time for the complete collision = 7.216667 sec
+ No. of collisions = 6
+
+ The first block collision took  : 4.800000 sec
+16.09.2025 15:21:48.017
+
+ Check: The same MD5 hash
+
+ The second block collision took  : 0.200000 sec16.09.2025 15:21:48.286
+
+ The first and the second blocks together took : 5.000000 sec
+ AVERAGE time for the 1st block = 6.500000 sec
+ AVERAGE time for the 2nd block = 0.400000 sec
+ AVERAGE time for the complete collision = 6.900000 sec
+ No. of collisions = 7
+
+ The first block collision took  : 2.400000 sec
+16.09.2025 15:21:50.768
+
+ Check: The same MD5 hash
+
+ The second block collision took  : 0.500000 sec16.09.2025 15:21:51.325
+
+ The first and the second blocks together took : 2.900000 sec
+ AVERAGE time for the 1st block = 5.987500 sec
+ AVERAGE time for the 2nd block = 0.412500 sec
+ AVERAGE time for the complete collision = 6.400000 sec
+ No. of collisions = 8
+
+ The first block collision took  : 13.000000 sec
+16.09.2025 15:22:04.348
+
+ Check: The same MD5 hash
+
+ The second block collision took  : 0.200000 sec16.09.2025 15:22:04.649
+
+ The first and the second blocks together took : 13.200000 sec
+ AVERAGE time for the 1st block = 6.766667 sec
+ AVERAGE time for the 2nd block = 0.388889 sec
+ AVERAGE time for the complete collision = 7.155556 sec
+ No. of collisions = 9
+
+ The first block collision took  : 3.900000 sec
+16.09.2025 15:22:08.561
+
+ Check: The same MD5 hash
+
+ The second block collision took  : 0.100000 sec16.09.2025 15:22:08.663
+
+ The first and the second blocks together took : 4.000000 sec
+ AVERAGE time for the 1st block = 6.480000 sec
+ AVERAGE time for the 2nd block = 0.360000 sec
+ AVERAGE time for the complete collision = 6.840000 sec
+ No. of collisions = 10
