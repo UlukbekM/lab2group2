@@ -1,0 +1,18 @@
+Tue Sep 16 21:48:49 2025  
+Tue Sep 16 21:48:49 2025  
+Tue Sep 16 21:48:49 2025  Msieve v. 1.53 (SVN 1005)
+Tue Sep 16 21:48:49 2025  random seeds: 2abb76c0 01f0f109
+Tue Sep 16 21:48:49 2025  factoring 23301099828392479441807930661002378813921831597623249668971498063817026250149436207388222742247039275030498859245679 (116 digits)
+Tue Sep 16 21:48:50 2025  searching for 15-digit factors
+Tue Sep 16 21:48:50 2025  commencing quadratic sieve (116-digit input)
+Tue Sep 16 21:48:50 2025  using multiplier of 2
+Tue Sep 16 21:48:50 2025  using generic 32kb sieve core
+Tue Sep 16 21:48:50 2025  sieve interval: 73 blocks of size 32768
+Tue Sep 16 21:48:50 2025  processing polynomials in batches of 3
+Tue Sep 16 21:48:50 2025  using a sieve bound of 9967409 (331050 primes)
+Tue Sep 16 21:48:50 2025  using large prime bound of 1495111350 (30 bits)
+Tue Sep 16 21:48:50 2025  using double large prime bound of 32689806792955050 (47-55 bits)
+Tue Sep 16 21:48:50 2025  using trial factoring cutoff of 55 bits
+Tue Sep 16 21:48:50 2025  polynomial 'A' values have 15 factors
+Wed Sep 17 14:14:58 2025  44099 relations (30202 full + 13897 combined from 1777560 partial), need 331146
+Wed Sep 17 14:14:58 2025  elapsed time 16:26:09
